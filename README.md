@@ -1,4 +1,4 @@
-This is a very rudimentary chat system that allows text based communication over the internet between a Host and Client using Unity 6s UI functionality, it is very bare bones.
+This is a very rudimentary chat system that allows text based communication over the internet between a Host and Client using Unity 6s UI functionality and Netcode for GameObjects, it is very bare bones.
 
 The version of Unity that this project uses is 6000.0.34f1
 
